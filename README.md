@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Emanuela Georgieva
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning Java and JavaScript
+- 📫 Fcebook: Emanuela Georgieva (https://www.facebook.com/emi.georgieva.547/)
