@@ -1,4 +1,3 @@
-# Hi there, I'm Emanuela! 
 <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=emanuelageorgieva&show_icons=true&theme=merko" />
 <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelageorgieva&layout=compact)"  />
 
