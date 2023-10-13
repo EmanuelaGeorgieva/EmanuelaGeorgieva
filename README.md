@@ -20,25 +20,6 @@
 - 💼 Check out my professional profile on https://www.linkedin.com/in/emanuela-georgieva-9549a0251/
 - 📖 Share your favorite fantasy book recommendations with me on https://www.goodreads.com/user/show/170688746-emanuela  
 
-## 💻 Project Highlights
-
-// 🌟 Explore some of my latest projects in my [GitHub Repositories]...
-
-// 🔍 For an in-depth look at my web design and UI projects, visit my [Portfolio]...
-
-## 📌 Pinned Repositories
-//Project Name 1
-//Project Name 2
-
-
-## 🚀 Let's Collaborate
-
-- 👀 Excited to explore new ideas and contribute to inspiring projects.
-- 🤝 Open to collaborations and opportunities to create amazing digital experiences.
-
-Feel free to browse through my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about gaming, fantasy books, or coding. Together, we can create some fantastic projects and share exciting adventures! 🌟
-
-Enjoy your stay, and thanks for dropping by!
 
 <img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=emanuelageorgieva&show_icons=true&theme=merko" />
 <img align= "left" width="46%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelageorgieva&layout=compact" />
