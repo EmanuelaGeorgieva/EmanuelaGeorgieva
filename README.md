@@ -21,8 +21,8 @@
 - 📖 Share your favorite fantasy book recommendations with me on https://www.goodreads.com/user/show/170688746-emanuela  
 
 
-<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=emanuelageorgieva&show_icons=true&theme=merko" />
-<img align= "left" width="46%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelageorgieva&layout=compact" />
+<img align= "left" width="46%" src="https://github-readme-stats.vercel.app/api?username=emanuelageorgieva&show_icons=true&theme=merko" />
+<img align= "left" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelageorgieva&layout=compact" />
 
 
 <img align= "left" alt="Java" src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
