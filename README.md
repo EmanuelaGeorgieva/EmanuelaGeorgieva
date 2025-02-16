@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎉 23 years young and passionate about all things tech.
+- 🎉 25 years young and passionate about all things tech.
 - 🚀 Full-stack enthusiast with a focus on web development.
 - ☕ Java, 💻 JavaScript, 🌐 HTML, and 🎨 CSS are my daily companions.
 - 💡 I have a knack for User Experience (UX) and User Interface (UI) design.
